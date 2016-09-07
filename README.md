@@ -1,2 +1,2 @@
 # flaxen
-Kickstart Documentation as Code
+Documentation as Code Straw-Man
